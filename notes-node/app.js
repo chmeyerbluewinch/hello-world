@@ -6,6 +6,7 @@ const notes = require("./notes.js");
 
 console.log("Result: ", notes.add(9, -2));
 
+
 //var user = os.userInfo();
 //
 //// fs.appendFile("greetings.txt", "Hello " + user.username + "!\n", function (err) {

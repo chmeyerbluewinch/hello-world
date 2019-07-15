@@ -1,12 +1,13 @@
 # hello-world
 my first trial repository at gitHub
 
-This is the first line added
 
-and now we are writing the second line.
+synchronized: 09.09.2018, 18:30, cme
 
-This line was added in Virtualbox::Linux::eclipse
+synchronized: 09.09.2018, 18:40, cme
 
-added at 19.08.2018, 15.47, cme
+some lines removed: 09.09.2018, 18:46, cme
 
-added at 19.08.2018, 16.05, cme
+noch eine Anpassung: 09.09.2018, 19:12, cme
+
+im Browser (GitHub) angepasst:  09.09.2018, 20:30, cme
